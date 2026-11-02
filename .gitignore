@@ -1,0 +1,13 @@
+/build/
+/.vs/
+/bin/
+/obj/
+*.user
+*.suo
+*.tmp
+*.log
+test-results.txt
+pet.json*
+.env*
+*.pfx
+*.snk
